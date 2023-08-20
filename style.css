@@ -1,0 +1,2033 @@
+.frame-1000004444,
+.frame-1000004444 * {
+  box-sizing: border-box;
+}
+.frame-1000004444 {
+  width: 1533px;
+  height: 4527px;
+  position: relative;
+}
+.frame-1000004443 {
+  width: 1130.49px;
+  height: 466.4px;
+  position: absolute;
+  left: 198px;
+  top: 343px;
+}
+.div-hero-slider-active-1 {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 750.68px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.div-slick-list {
+  padding: 0px 0.28px 6.41px 0px;
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 750.68px;
+  position: relative;
+  overflow: hidden;
+}
+.div-single-hero-slider {
+  background: linear-gradient(to left, #aaaaaa, #aaaaaa);
+  flex-shrink: 0;
+  height: 457.54px;
+  position: relative;
+}
+.div-hero-slider-content-1 {
+  width: 635.3px;
+  height: 310.94px;
+  position: absolute;
+  left: 0px;
+  bottom: 49.73px;
+}
+.div-slider-product-offer-wrap {
+  height: 27.87px;
+  position: absolute;
+  right: 53.41px;
+  left: 53.40972137451172px;
+  top: 0px;
+}
+.span-red {
+  background: #e4573d;
+  border-radius: 1.78px;
+  padding: 4.09px 8.45px 6.59px 8.9px;
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 0px;
+  bottom: 2.1px;
+  top: 2.0903964042663574px;
+}
+._28 {
+  color: #ffffff;
+  text-align: left;
+  font: 400 12.46px/12.46px "Inter", sans-serif;
+  text-transform: uppercase;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.p-h-2-d-a-9-cbfbce {
+  padding: 0px 1.5px 0.28px 0px;
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 60.08px;
+  top: calc(50% - 14.58px);
+}
+.samsung-vr {
+  color: #2b2b2b;
+  text-align: left;
+  font: 400 15.13px/27.88px "Inter", sans-serif;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.up-to-40-off-premium-samsung-vr {
+  color: #2b2b2b;
+  text-align: left;
+  font: 700 35.81px "Source Sans Pro", sans-serif;
+  position: absolute;
+  left: 52.08px;
+  top: 43.15px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.we-work-with-global-brand-and-have-create-an-smart-gadget-for-you-to-make-easiest-life {
+  color: #2b2b2b;
+  text-align: left;
+  font: 400 13.93px "Source Sans Pro", sans-serif;
+  position: absolute;
+  left: 53.57px;
+  top: 152.3px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.link {
+  background: #323232;
+  border-radius: 44.51px;
+  padding: 11.93px 40.1px 14.78px 37.39px;
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 53.41px;
+  top: 218.37px;
+}
+.buy-now {
+  color: #ffffff;
+  text-align: left;
+  font: 700 13.93px/21.36px "Source Sans Pro", sans-serif;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.span-slider-icon-1-prev {
+  background: rgba(0, 0, 0, 0.1);
+  border-radius: 23.14px;
+  flex-shrink: 0;
+  width: 46.29px;
+  height: 46.29px;
+  position: absolute;
+  left: 604.18px;
+  top: 385.2px;
+  overflow: hidden;
+}
+.icon {
+  padding: 1.24px 0.03px 1.24px 0px;
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 19.14px;
+  top: 31.33px;
+  transform: translate(0px, -16.38px);
+  overflow: visible;
+}
+.span-slider-icon-1-next {
+  background: rgba(0, 0, 0, 0.1);
+  border-radius: 23.14px;
+  flex-shrink: 0;
+  width: 46.29px;
+  height: 46.29px;
+  position: absolute;
+  left: 659.37px;
+  top: 385.2px;
+  overflow: hidden;
+}
+.icon2 {
+  padding: 1.24px 0.03px 1.24px 0px;
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 19.14px;
+  top: 31.33px;
+  transform: translate(0px, -16.38px);
+  overflow: visible;
+}
+.div-custom-common-column {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 379.81px;
+  max-width: 379.81px;
+  min-height: 0.89px;
+  position: absolute;
+  left: 750.68px;
+  top: 0px;
+}
+.div-row {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 379.81px;
+  position: relative;
+}
+.div-col-xl-12 {
+  padding: 0px 4.45px 8.9px 4.45px;
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 379.81px;
+  max-width: 379.81px;
+  min-height: 0.89px;
+  position: relative;
+}
+.div-banner-wrap {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.link-bnr-1-grande-jpg {
+  flex-shrink: 0;
+  width: 370.9px;
+  height: 224.3px;
+  max-width: 370.9px;
+  position: relative;
+  overflow: hidden;
+}
+.image-376 {
+  width: 398px;
+  height: 264px;
+  position: absolute;
+  left: calc(50% - -199.41px);
+  top: calc(50% - 131.75px);
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(-1, 1);
+}
+.div-banner-content-1 {
+  flex-shrink: 0;
+  width: 370.9px;
+  height: 115.37px;
+  position: absolute;
+  left: 0px;
+  top: 57.68px;
+}
+.modern-c-ontroller {
+  color: #ffffff;
+  text-align: left;
+  font: 400 12.46px/21.36px "Inter", sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: 24.92px;
+  top: -0.53px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.heading-2-new-collection {
+  color: #ffffff;
+  text-align: left;
+  font: 400 20.47px/25.64px "Inter", sans-serif;
+  position: absolute;
+  left: 24.92px;
+  top: 30.44px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.heading-3-99-00 {
+  color: #ffa412;
+  text-align: left;
+  font: 700 19.58px/25.64px "Inter", sans-serif;
+  position: absolute;
+  left: 24.92px;
+  top: 66.76px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.link-nbnr-22-grande-jpg {
+  flex-shrink: 0;
+  width: 370.9px;
+  height: 224.29px;
+  max-width: 370.9px;
+  position: relative;
+  overflow: hidden;
+}
+.image-377 {
+  width: 1182px;
+  height: 664px;
+  position: absolute;
+  left: -405.13px;
+  top: -219.8px;
+}
+.image-378 {
+  width: 406px;
+  height: 228px;
+  position: absolute;
+  left: 25.87px;
+  top: -1.8px;
+}
+.headset {
+  color: #ffffff;
+  text-align: left;
+  font: 400 12.46px/21.36px "Inter", sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: 24.92px;
+  top: -0.53px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.heading-2-best-seller-product {
+  color: #ffffff;
+  text-align: left;
+  font: 400 19.58px/25.64px "Inter", sans-serif;
+  position: absolute;
+  left: 24.92px;
+  top: 30.44px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.heading-3-15-00 {
+  color: #e4573d;
+  text-align: left;
+  font: 700 20.47px/25.64px "Inter", sans-serif;
+  position: absolute;
+  left: 24.92px;
+  top: 66.76px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame-1000004442 {
+  display: flex;
+  flex-direction: column;
+  gap: 100px;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  left: 1px;
+  top: 855px;
+}
+.frame-51653 {
+  flex-shrink: 0;
+  width: 1132px;
+  height: 459px;
+  position: relative;
+}
+.div-product-header {
+  background: rgba(70, 81, 160, 0.05);
+  width: 1128px;
+  height: 54px;
+  position: absolute;
+  left: 4px;
+  top: -0.49px;
+}
+.items-on-sale {
+  color: #4b4b4b;
+  text-align: left;
+  font: 700 30px/38px "Source Sans Pro", sans-serif;
+  position: absolute;
+  left: 16px;
+  top: 8px;
+  width: 306.95px;
+  height: 37.6px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.a-d-flex {
+  width: 99.6px;
+  height: 25px;
+  position: absolute;
+  left: 1012.4px;
+  top: 14.5px;
+}
+.frame-1000004440 {
+  display: flex;
+  flex-direction: row;
+  gap: 16px;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  left: 0px;
+  top: -0.8px;
+}
+.view-all {
+  color: #4b4b4b;
+  text-align: left;
+  font: 300 20px/25px "Source Sans Pro", sans-serif;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.product-cards {
+  display: flex;
+  flex-direction: row;
+  gap: 11px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 1130px;
+  height: 342px;
+  position: absolute;
+  left: 1px;
+  top: 78px;
+}
+.product-card {
+  background: #ffffff;
+  border-radius: 9.26px;
+  border-style: solid;
+  border-color: #edeef5;
+  border-width: 2px;
+  flex-shrink: 0;
+  width: 217.49px;
+  height: 342.44px;
+  position: relative;
+}
+.div-product-wrapper {
+  width: 216.57px;
+  height: 342.44px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.frame-34042 {
+  display: flex;
+  flex-direction: column;
+  gap: 16.66px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 18.51px;
+  top: 206.2px;
+}
+.frame-34041 {
+  display: flex;
+  flex-direction: column;
+  gap: 6.48px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-34040 {
+  display: flex;
+  flex-direction: column;
+  gap: 1.85px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.fifa-2022 {
+  color: #202435;
+  text-align: left;
+  font: 600 18.51px/18.14px "Source Sans Pro", sans-serif;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.few-units-left {
+  color: #ed174a;
+  text-align: left;
+  font: 600 10.18px/15.27px "Source Sans Pro", sans-serif;
+  text-transform: uppercase;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame-34038 {
+  display: flex;
+  flex-direction: row;
+  gap: 3.7px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-34037 {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.n {
+  color: #c2c2d3;
+  text-align: left;
+  font: 600 14.16px/21.24px "Source Sans Pro", sans-serif;
+  text-decoration: line-through;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+._20-00-35 {
+  color: #c2c2d3;
+  text-align: left;
+  font: 600 14.16px/21.24px "Source Sans Pro", sans-serif;
+  text-decoration: line-through;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame-34039 {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.n2 {
+  color: #d51243;
+  text-align: left;
+  font: 600 16.66px/24.99px "Source Sans Pro", sans-serif;
+  text-decoration: line-through;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+._25-000-14 {
+  color: #d51243;
+  text-align: left;
+  font: 600 16.66px/24.99px "Source Sans Pro", sans-serif;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.read-more-about-all-natural-italian-style-chicken-meatballs {
+  background: #4651a0;
+  border-radius: 12.96px;
+  border-style: solid;
+  border-color: #4651a0;
+  border-width: 0.93px;
+  padding: 7.22px 47.2px 7.59px 46.28px;
+  display: flex;
+  flex-direction: row;
+  gap: 7px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 179.55px;
+  position: relative;
+}
+.shopping-cart {
+  color: #ffffff;
+  text-align: center;
+  font: 400 22.21px/22.21px "Material Icons", sans-serif;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.add-to-cart {
+  color: #ffffff;
+  text-align: left;
+  font: 600 14px/16.66px "Source Sans Pro", sans-serif;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.image-375 {
+  width: 194.36px;
+  height: 173.99px;
+  position: absolute;
+  left: 8.33px;
+  top: 14.81px;
+}
+.span-badge {
+  background: #f50000;
+  border-radius: 100px;
+  padding: 5.92px 11.47px 5.18px 10.18px;
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: flex-start;
+  height: 21.74px;
+  position: absolute;
+  left: 7.91px;
+  top: 15.75px;
+}
+._23-off {
+  color: #ffffff;
+  text-align: center;
+  font: 600 12px/11.11px "Source Sans Pro", sans-serif;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.frame2 {
+  position: absolute;
+  left: 177.7px;
+  top: 12.96px;
+  overflow: visible;
+}
+.mac-book-air-2020 {
+  color: #202435;
+  text-align: left;
+  font: 600 18.51px/18.14px "Source Sans Pro", sans-serif;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+._206-units-in-stock {
+  color: #4651a0;
+  text-align: left;
+  font: 600 10.18px/15.27px "Source Sans Pro", sans-serif;
+  text-transform: uppercase;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+._2-000-000-35 {
+  color: #c2c2d3;
+  text-align: left;
+  font: 600 14.16px/21.24px "Source Sans Pro", sans-serif;
+  text-decoration: line-through;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+._900-000-00 {
+  color: #d51243;
+  text-align: left;
+  font: 600 16.66px/24.99px "Source Sans Pro", sans-serif;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame3 {
+  position: absolute;
+  left: 178.51px;
+  top: 14px;
+  overflow: visible;
+}
+.infinix {
+  color: #202435;
+  text-align: left;
+  font: 600 18.51px/18.14px "Source Sans Pro", sans-serif;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+._111-units-in-stock {
+  color: #4651a0;
+  text-align: left;
+  font: 600 10.18px/15.27px "Source Sans Pro", sans-serif;
+  text-transform: uppercase;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+._20-00-352 {
+  color: #c2c2d3;
+  text-align: left;
+  font: 600 14.16px/21.24px "Source Sans Pro", sans-serif;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame4 {
+  position: absolute;
+  left: 177.7px;
+  top: 12.96px;
+  overflow: visible;
+}
+._500-units-in-stock {
+  color: #4651a0;
+  text-align: left;
+  font: 600 10.18px/15.27px "Source Sans Pro", sans-serif;
+  text-transform: uppercase;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame5 {
+  position: absolute;
+  left: 177.7px;
+  top: 12.96px;
+  overflow: visible;
+}
+._9-000-units-in-stock {
+  color: #4651a0;
+  text-align: left;
+  font: 600 10.18px/15.27px "Source Sans Pro", sans-serif;
+  text-transform: uppercase;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame6 {
+  position: absolute;
+  left: 177.7px;
+  top: 12.96px;
+  overflow: visible;
+}
+.frame-2 {
+  display: flex;
+  flex-direction: row;
+  gap: 10.81px;
+  align-items: flex-start;
+  justify-content: center;
+  position: absolute;
+  left: 541.54px;
+  top: 444px;
+}
+.item-0 {
+  background: #4651a0;
+  border-radius: 14.1px;
+  flex-shrink: 0;
+  width: 14.1px;
+  height: 14.1px;
+  position: relative;
+}
+.item-1 {
+  background: #efefef;
+  border-radius: 14.1px;
+  flex-shrink: 0;
+  width: 14.1px;
+  height: 14.1px;
+  position: relative;
+}
+.item-2 {
+  background: #efefef;
+  border-radius: 14.1px;
+  flex-shrink: 0;
+  width: 14.1px;
+  height: 14.1px;
+  position: relative;
+}
+.frame-1000004473 {
+  display: flex;
+  flex-direction: row;
+  gap: 1079px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: -15px;
+  top: 215.86px;
+}
+.span-slider-icon-1-next2 {
+  background: rgba(70, 81, 160, 0.32);
+  border-radius: 22.82px;
+  flex-shrink: 0;
+  width: 45.63px;
+  height: 45.63px;
+  position: relative;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(-1, 1);
+  overflow: hidden;
+}
+.icon3 {
+  padding: 1.22px 0.03px 1.22px 0px;
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 18.87px;
+  top: 30.89px;
+  transform: translate(-7.9px, -16.15px);
+  overflow: visible;
+}
+.span-slider-icon-1-next3 {
+  background: rgba(70, 81, 160, 0.32);
+  border-radius: 22.82px;
+  flex-shrink: 0;
+  width: 45.63px;
+  height: 45.63px;
+  position: relative;
+  overflow: hidden;
+}
+.icon4 {
+  padding: 1.22px 0.03px 1.22px 0px;
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 18.87px;
+  top: 30.89px;
+  transform: translate(0px, -16.15px);
+  overflow: visible;
+}
+.frame-51651 {
+  flex-shrink: 0;
+  width: 1137px;
+  height: 460px;
+  position: relative;
+}
+.div-product-header2 {
+  background: rgba(70, 81, 160, 0.05);
+  width: 1128px;
+  height: 54px;
+  position: absolute;
+  left: -0.5px;
+  top: 0.44px;
+}
+.headset2 {
+  color: #4b4b4b;
+  text-align: left;
+  font: 700 30px/38px "Source Sans Pro", sans-serif;
+  position: absolute;
+  left: 16px;
+  top: 7px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.a-d-flex2 {
+  width: 99.6px;
+  height: 25px;
+  position: absolute;
+  left: 1012.4px;
+  top: 14.01px;
+}
+.frame7 {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.product-cards2 {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 1132px;
+  height: 342px;
+  position: absolute;
+  left: -0.5px;
+  top: 78.44px;
+}
+.designer-bag {
+  color: #202435;
+  text-align: left;
+  font: 600 18.51px/18.14px "Source Sans Pro", sans-serif;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.image-3752 {
+  width: 194.36px;
+  height: 173.99px;
+  position: absolute;
+  left: 7px;
+  top: 16px;
+}
+.span-badge2 {
+  background: #f50000;
+  border-radius: 100px;
+  padding: 5px 10.56px 6.11px 11.11px;
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: flex-start;
+  height: 21.74px;
+  position: absolute;
+  left: 8.2px;
+  top: 12.07px;
+}
+._23-off2 {
+  color: #ffffff;
+  text-align: center;
+  font: 600 12px "Source Sans Pro", sans-serif;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.frame8 {
+  position: absolute;
+  left: 177.7px;
+  top: 12.96px;
+  overflow: visible;
+}
+.adidas-tshirt {
+  color: #202435;
+  text-align: left;
+  font: 600 18.51px/18.14px "Source Sans Pro", sans-serif;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.n3 {
+  color: #231f20;
+  text-align: left;
+  font: 600 16.66px/21.24px "Source Sans Pro", sans-serif;
+  text-decoration: line-through;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+._20-00-353 {
+  color: #231f20;
+  text-align: left;
+  font: 600 16.66px/21.24px "Source Sans Pro", sans-serif;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame-34043 {
+  width: 110.88px;
+  height: 22.21px;
+  position: absolute;
+  left: 7.4px;
+  top: 16.2px;
+}
+.div-product-badges {
+  display: flex;
+  flex-direction: row;
+  gap: 5.55px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  right: 68.09px;
+  left: -1.8842926025390625px;
+  bottom: 0.24px;
+  top: 0.23627614974975586px;
+}
+.span-badge3 {
+  background: #4651a0;
+  border-radius: 100px;
+  padding: 5px 10.56px 6.11px 11.11px;
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  height: 21.74px;
+  position: relative;
+}
+.new {
+  color: #ffffff;
+  text-align: center;
+  font: 600 12px "Source Sans Pro", sans-serif;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.frame9 {
+  position: absolute;
+  left: 177.7px;
+  top: 12.96px;
+  overflow: visible;
+}
+.vanessa-gown {
+  color: #202435;
+  text-align: left;
+  font: 600 18.51px/18.14px "Source Sans Pro", sans-serif;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+._20-units-in-stock {
+  color: #4651a0;
+  text-align: left;
+  font: 600 10.18px/15.27px "Source Sans Pro", sans-serif;
+  text-transform: uppercase;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.n4 {
+  color: #231f20;
+  text-align: left;
+  font: 600 16.66px/24.99px "Source Sans Pro", sans-serif;
+  text-decoration: line-through;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+._200-000-14 {
+  color: #231f20;
+  text-align: left;
+  font: 600 16.66px/24.99px "Source Sans Pro", sans-serif;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.div-product-badges2 {
+  display: flex;
+  flex-direction: row;
+  gap: 5.55px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  right: 68.11px;
+  left: -1.8974609375px;
+  bottom: 0.24px;
+  top: 0.23627614974975586px;
+}
+.frame10 {
+  position: absolute;
+  left: 178.51px;
+  top: 14px;
+  overflow: visible;
+}
+.nike-sneakers {
+  color: #202435;
+  text-align: left;
+  font: 600 18.51px/18.14px "Source Sans Pro", sans-serif;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+._305-units-in-stock {
+  color: #4651a0;
+  text-align: left;
+  font: 600 10.18px/15.27px "Source Sans Pro", sans-serif;
+  text-transform: uppercase;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+._90-00-85 {
+  color: #231f20;
+  text-align: left;
+  font: 600 16.66px/21.24px "Source Sans Pro", sans-serif;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame-340392 {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 11px;
+  height: 25px;
+  position: relative;
+}
+.div-product-badges3 {
+  display: flex;
+  flex-direction: row;
+  gap: 5.55px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  right: 68.6px;
+  left: -2.3908767700195312px;
+  bottom: 0.24px;
+  top: 0.23627614974975586px;
+}
+.frame11 {
+  position: absolute;
+  left: 177.7px;
+  top: 12.96px;
+  overflow: visible;
+}
+.multi-color-heels {
+  color: #202435;
+  text-align: left;
+  font: 600 18.51px/18.14px "Source Sans Pro", sans-serif;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+._1-233-units-in-stock {
+  color: #4651a0;
+  text-align: left;
+  font: 600 10.18px/15.27px "Source Sans Pro", sans-serif;
+  text-transform: uppercase;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+._25-000-142 {
+  color: #231f20;
+  text-align: left;
+  font: 600 16.66px/24.99px "Source Sans Pro", sans-serif;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.div-product-badges4 {
+  display: flex;
+  flex-direction: row;
+  gap: 5.55px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  right: 68.59px;
+  left: -2.3777008056640625px;
+  bottom: 0.24px;
+  top: 0.23627614974975586px;
+}
+.frame12 {
+  position: absolute;
+  left: 177.7px;
+  top: 12.96px;
+  overflow: visible;
+}
+.frame-1 {
+  display: flex;
+  flex-direction: row;
+  gap: 9.05px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 61.37px;
+  height: 15.97px;
+  position: absolute;
+  left: 542.81px;
+  top: 444px;
+}
+.item-02 {
+  background: #4651a0;
+  border-radius: 15.97px;
+  flex-shrink: 0;
+  width: 15.97px;
+  height: 15.97px;
+  position: relative;
+}
+.item-12 {
+  background: #efefef;
+  border-radius: 15.97px;
+  flex-shrink: 0;
+  width: 15.97px;
+  height: 15.97px;
+  position: relative;
+}
+.item-22 {
+  background: #efefef;
+  border-radius: 15.97px;
+  flex-shrink: 0;
+  width: 15.97px;
+  height: 15.97px;
+  position: relative;
+}
+.frame-10000044732 {
+  display: flex;
+  flex-direction: row;
+  gap: 1079px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: -15.5px;
+  top: 215.86px;
+}
+.icon5 {
+  padding: 1.22px 0.03px 1.22px 0px;
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 18.87px;
+  top: 30.89px;
+  transform: translate(-7.9px, -16.15px);
+  overflow: visible;
+}
+.icon6 {
+  padding: 1.22px 0.03px 1.22px 0px;
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 18.87px;
+  top: 30.89px;
+  transform: translate(0px, -16.15px);
+  overflow: visible;
+}
+.frame-51650 {
+  flex-shrink: 0;
+  width: 1140px;
+  height: 459px;
+  position: relative;
+}
+.frame-1000004441 {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.div-product-header3 {
+  background: rgba(70, 81, 160, 0.05);
+  flex-shrink: 0;
+  width: 1127px;
+  height: 54px;
+  position: relative;
+}
+.game-controller {
+  color: #4b4b4b;
+  text-align: left;
+  font: 700 30px/38px "Source Sans Pro", sans-serif;
+  position: absolute;
+  left: 16px;
+  top: 7px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.a-d-flex3 {
+  width: 99.6px;
+  height: 25px;
+  position: absolute;
+  left: 1012.9px;
+  top: 14.44px;
+}
+.frame13 {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.product-cards3 {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 1132px;
+  height: 342px;
+  position: relative;
+}
+.frame14 {
+  position: absolute;
+  left: 177.7px;
+  top: 12.96px;
+  overflow: visible;
+}
+.frame15 {
+  position: absolute;
+  left: 177.7px;
+  top: 12.96px;
+  overflow: visible;
+}
+.frame16 {
+  position: absolute;
+  left: 178.51px;
+  top: 14px;
+  overflow: visible;
+}
+.frame17 {
+  position: absolute;
+  left: 177.7px;
+  top: 12.96px;
+  overflow: visible;
+}
+.frame18 {
+  position: absolute;
+  left: 177.7px;
+  top: 12.96px;
+  overflow: visible;
+}
+.frame-12 {
+  display: flex;
+  flex-direction: row;
+  gap: 9.05px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 61.37px;
+  height: 15.97px;
+  position: absolute;
+  left: 539.81px;
+  top: 444px;
+}
+.icon7 {
+  padding: 1.22px 0.03px 1.22px 0px;
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 18.87px;
+  top: 30.89px;
+  transform: translate(-7.9px, -16.15px);
+  overflow: visible;
+}
+.icon8 {
+  padding: 1.22px 0.03px 1.22px 0px;
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 18.87px;
+  top: 30.89px;
+  transform: translate(0px, -16.15px);
+  overflow: visible;
+}
+.div-banner-wrap2 {
+  border-radius: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 1128px;
+  position: relative;
+}
+.link-slide-61-jpg {
+  border-radius: 10px;
+  flex-shrink: 0;
+  width: 1128px;
+  height: 411.24px;
+  max-width: 1128px;
+  position: relative;
+  overflow: hidden;
+}
+.image-379 {
+  background: linear-gradient(
+    to left,
+    rgba(70, 81, 160, 0.49),
+    rgba(70, 81, 160, 0.49)
+  );
+  width: 1164px;
+  height: 776px;
+  position: absolute;
+  left: -18px;
+  top: -182.58px;
+}
+.div-banner-content-12 {
+  flex-shrink: 0;
+  width: 1128px;
+  height: 151.53px;
+  position: absolute;
+  left: 0px;
+  top: calc(50% - 76.2px);
+}
+._30-nov-03-dec {
+  color: #ffffff;
+  text-align: center;
+  font: 400 14px/21.32px "Source Sans Pro", sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: calc(50% - 46.15px);
+  top: -0.53px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.heading-2-the-wait-is-on-i-phone-14-max-pro {
+  color: #ffffff;
+  text-align: center;
+  font: 400 24px/25.58px "Source Sans Pro", sans-serif;
+  position: absolute;
+  left: calc(50% - 163.8px);
+  top: 30.38px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.heading-3-999-00 {
+  color: #e4573d;
+  text-align: center;
+  font: 700 20px/25.58px "Source Sans Pro", sans-serif;
+  position: absolute;
+  left: calc(50% - 35.4px);
+  top: 66.61px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.link2 {
+  background: #ffffff;
+  border-radius: 44.41px;
+  padding: 6.39px 19.86px 8.7px 19.54px;
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: center;
+  position: absolute;
+  left: calc(50% - 50.7px);
+  top: 115.11px;
+}
+.shop-now {
+  color: #4651a0;
+  text-align: center;
+  font: 700 12.43px/21.32px "Inter", sans-serif;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.frame-51649 {
+  flex-shrink: 0;
+  width: 1141px;
+  height: 458.1px;
+  position: relative;
+}
+.div-product-header4 {
+  background: rgba(70, 81, 160, 0.05);
+  width: 1128px;
+  height: 54px;
+  position: absolute;
+  left: 1px;
+  top: -0.5px;
+}
+.gaming-chair {
+  color: #4b4b4b;
+  text-align: left;
+  font: 700 30px/38px "Source Sans Pro", sans-serif;
+  position: absolute;
+  left: 16px;
+  top: 7px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame-1000004438 {
+  display: flex;
+  flex-direction: row;
+  gap: 16px;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  left: 0px;
+  top: -0.8px;
+}
+.frame19 {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.product-cards4 {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 1128px;
+  height: 342px;
+  position: absolute;
+  left: 0px;
+  top: 77.5px;
+}
+.rechargeable-fans {
+  color: #202435;
+  text-align: left;
+  font: 600 18.51px/18.14px "Source Sans Pro", sans-serif;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+._600-units-in-stock {
+  color: #4651a0;
+  text-align: left;
+  font: 600 10.18px/15.27px "Source Sans Pro", sans-serif;
+  text-transform: uppercase;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.div-product-badges5 {
+  display: flex;
+  flex-direction: row;
+  gap: 5.55px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  right: 68.6px;
+  left: -2.3908767700195312px;
+  bottom: 0.24px;
+  top: 0.23627609014511108px;
+}
+.frame20 {
+  position: absolute;
+  left: 177.7px;
+  top: 12.96px;
+  overflow: visible;
+}
+.d-jack-3-1-ch-heavy-d {
+  color: #202435;
+  text-align: left;
+  font: 600 18.51px/18.14px "Source Sans Pro", sans-serif;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+._100-units-in-stock {
+  color: #4651a0;
+  text-align: left;
+  font: 600 10.18px/15.27px "Source Sans Pro", sans-serif;
+  text-transform: uppercase;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.div-product-badges6 {
+  display: flex;
+  flex-direction: row;
+  gap: 5.55px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  right: 68.09px;
+  left: -1.8842926025390625px;
+  bottom: 0.24px;
+  top: 0.23627609014511108px;
+}
+.frame21 {
+  position: absolute;
+  left: 177.7px;
+  top: 12.96px;
+  overflow: visible;
+}
+.wiresto-bluetooth-he {
+  color: #202435;
+  text-align: left;
+  font: 600 18.51px/18.14px "Source Sans Pro", sans-serif;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+._2014-units-in-stock {
+  color: #4651a0;
+  text-align: left;
+  font: 600 10.18px/15.27px "Source Sans Pro", sans-serif;
+  text-transform: uppercase;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame22 {
+  position: absolute;
+  left: 177.7px;
+  top: 12.96px;
+  overflow: visible;
+}
+.wireless-bluetooth {
+  color: #202435;
+  text-align: left;
+  font: 600 18.51px/18.14px "Source Sans Pro", sans-serif;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+._499-units-in-stock {
+  color: #4651a0;
+  text-align: left;
+  font: 600 10.18px/15.27px "Source Sans Pro", sans-serif;
+  text-transform: uppercase;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame23 {
+  position: absolute;
+  left: 177.7px;
+  top: 12.96px;
+  overflow: visible;
+}
+.a-11-home-theatre-blu {
+  color: #202435;
+  text-align: left;
+  font: 600 18.51px/18.14px "Source Sans Pro", sans-serif;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+._242-units-in-stock {
+  color: #4651a0;
+  text-align: left;
+  font: 600 10.18px/15.27px "Source Sans Pro", sans-serif;
+  text-transform: uppercase;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame24 {
+  position: absolute;
+  left: 177.7px;
+  top: 12.96px;
+  overflow: visible;
+}
+.frame-22 {
+  display: flex;
+  flex-direction: row;
+  gap: 10.81px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 538.54px;
+  top: 444px;
+}
+.frame-10000044733 {
+  display: flex;
+  flex-direction: row;
+  gap: 1079px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: -15.5px;
+  top: 215.62px;
+}
+.icon9 {
+  padding: 1.22px 0.03px 1.22px 0px;
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 18.87px;
+  top: 30.89px;
+  transform: translate(-7.9px, -16.15px);
+  overflow: visible;
+}
+.icon10 {
+  padding: 1.22px 0.03px 1.22px 0px;
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 18.87px;
+  top: 30.89px;
+  transform: translate(0px, -16.15px);
+  overflow: visible;
+}
+.supper-safe-jpg {
+  border-radius: 30px;
+  flex-shrink: 0;
+  width: 1128px;
+  height: 475px;
+  position: relative;
+  overflow: hidden;
+}
+.image-380 {
+  width: 1128px;
+  height: 475px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.frame-1000004433 {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 1532px;
+  position: relative;
+}
+.div-section-footer {
+  background: #000000;
+  padding: 69.6px 109.6px 30px 109.6px;
+  flex-shrink: 0;
+  width: 1532px;
+  height: 288px;
+  position: relative;
+}
+.frame-1000004437 {
+  display: flex;
+  flex-direction: row;
+  gap: 92px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 196px;
+  top: 69.6px;
+}
+.frame-1000004436 {
+  flex-shrink: 0;
+  width: 210.29px;
+  height: 188px;
+  position: relative;
+}
+.heading-3-contact-us {
+  color: #ffffff;
+  text-align: left;
+  font: 700 19px/20px "Inter", sans-serif;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.item {
+  padding: 0px 3.29px 0px 0px;
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 0px;
+  top: 36px;
+}
+.gamers-store-no-1259-freedom-lagos-nigeria {
+  color: #ffffff;
+  text-align: left;
+  font: 400 15px/32px "Inter", sans-serif;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.item-91-987654321 {
+  color: #ffffff;
+  text-align: left;
+  font: 400 15px/32px "Inter", sans-serif;
+  position: absolute;
+  left: 0px;
+  top: 128px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.item-demo-exampledemo-com {
+  color: #ffffff;
+  text-align: left;
+  font: 400 15px/32px "Inter", sans-serif;
+  position: absolute;
+  left: 0px;
+  top: 156px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame-1000004435 {
+  flex-shrink: 0;
+  width: 110px;
+  height: 174.8px;
+  position: relative;
+}
+.heading-3-information {
+  color: #ffffff;
+  text-align: left;
+  font: 700 19px/20px "Inter", sans-serif;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.item-link-product-support {
+  color: #ffffff;
+  text-align: left;
+  font: 400 14px/24px "Inter", sans-serif;
+  position: absolute;
+  left: 0px;
+  top: 39.8px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.item-link-checkout {
+  color: #ffffff;
+  text-align: left;
+  font: 400 14px/24px "Inter", sans-serif;
+  position: absolute;
+  left: 0px;
+  top: 76.8px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.item-link-license-policy {
+  color: #ffffff;
+  text-align: left;
+  font: 400 14px/24px "Inter", sans-serif;
+  position: absolute;
+  left: 0px;
+  top: 113.8px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.item-link-affiliate {
+  color: #ffffff;
+  text-align: left;
+  font: 400 14px/24px "Inter", sans-serif;
+  position: absolute;
+  left: 0px;
+  top: 150.8px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame-1000004434 {
+  flex-shrink: 0;
+  width: 168px;
+  height: 174.8px;
+  position: relative;
+}
+.heading-3-customer-service {
+  color: #ffffff;
+  text-align: left;
+  font: 700 19px/20px "Inter", sans-serif;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.item-link-help-center {
+  color: #ffffff;
+  text-align: left;
+  font: 400 14px/24px "Inter", sans-serif;
+  position: absolute;
+  left: 0px;
+  top: 39.8px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.item-link-redeem-voucher {
+  color: #ffffff;
+  text-align: left;
+  font: 400 14px/24px "Inter", sans-serif;
+  position: absolute;
+  left: 0px;
+  top: 76.8px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.item-link-contact-us {
+  color: #ffffff;
+  text-align: left;
+  font: 400 14px/24px "Inter", sans-serif;
+  position: absolute;
+  left: 0px;
+  top: 113.8px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.item-link-policies-rules {
+  color: #ffffff;
+  text-align: left;
+  font: 400 14px/24px "Inter", sans-serif;
+  position: absolute;
+  left: 0px;
+  top: 150.8px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.div-footer-widget {
+  display: flex;
+  flex-direction: column;
+  gap: 19.6px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 373px;
+  position: relative;
+}
+.heading-3-download-our-app {
+  color: #ffffff;
+  text-align: left;
+  font: 700 20px/20px "Inter", sans-serif;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.div-app-visa-wrap {
+  display: flex;
+  flex-direction: column;
+  gap: 25px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.p-h-2-d-95-a-2-a-0-a-2 {
+  padding: 0px 12px 0px 0px;
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.download-our-app-and-get-extra-15-discount-on-your-first-order {
+  color: #ffffff;
+  text-align: left;
+  font: 400 14px/26.1px "Inter", sans-serif;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.div-app-google-img {
+  padding: 0px 21px 0px 0px;
+  display: flex;
+  flex-direction: row;
+  gap: 12px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+  flex-shrink: 0;
+  position: relative;
+}
+.link-app-store-jpg {
+  border-radius: 3px;
+  flex-shrink: 0;
+  width: 170px;
+  height: 48px;
+  max-width: 170px;
+  position: relative;
+  box-shadow: 0px 0px 20px 0px rgba(51, 51, 51, 0.1);
+  overflow: hidden;
+}
+.link-google-play-jpg {
+  border-radius: 3px;
+  flex-shrink: 0;
+  width: 170px;
+  height: 48px;
+  max-width: 170px;
+  position: relative;
+  box-shadow: 0px 0px 20px 0px rgba(51, 51, 51, 0.1);
+  overflow: hidden;
+}
+.footer {
+  background: #f8f8f8;
+  padding: 15px 109.6px 15px 109.6px;
+  flex-shrink: 0;
+  width: 1532px;
+  height: 62px;
+  position: relative;
+}
+.copyright-gamers-built-by-smooth-capital {
+  color: #444444;
+  text-align: left;
+  font: 400 14px/26.1px "Inter", sans-serif;
+  position: absolute;
+  left: 196px;
+  top: 15px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.link-payment-method-png {
+  width: 224px;
+  height: 32px;
+  position: absolute;
+  right: 208px;
+  top: calc(50% - 16px);
+  overflow: hidden;
+}
